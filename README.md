@@ -61,7 +61,7 @@ Run the multi-threaded shell implementation to experience improved performance f
 
     in base
     go to your directory where you clone the project using the "cd" command
-    git clone 
+    git clone https://github.com/hs7898753/OOPD_Project-main.git
     cd Oppd_Project
     Navigate into the project directory: "Oppd_Project"
 
